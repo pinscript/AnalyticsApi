@@ -1,0 +1,10 @@
+P:\Experiments\AnalyticsApi\AnalyticsApi\bin\Debug\AnalyticsApi.dll
+P:\Experiments\AnalyticsApi\AnalyticsApi\bin\Debug\AnalyticsApi.pdb
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Debug\ResolveAssemblyReference.cache
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Debug\AnalyticsApi.dll
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Debug\AnalyticsApi.pdb
+P:\Private\AnalyticsApi\AnalyticsApi\bin\Debug\AnalyticsApi.dll
+P:\Private\AnalyticsApi\AnalyticsApi\bin\Debug\AnalyticsApi.pdb
+P:\Private\AnalyticsApi\AnalyticsApi\obj\Debug\ResolveAssemblyReference.cache
+P:\Private\AnalyticsApi\AnalyticsApi\obj\Debug\AnalyticsApi.dll
+P:\Private\AnalyticsApi\AnalyticsApi\obj\Debug\AnalyticsApi.pdb

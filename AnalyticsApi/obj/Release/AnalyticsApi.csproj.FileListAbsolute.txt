@@ -1,0 +1,5 @@
+P:\Experiments\AnalyticsApi\AnalyticsApi\bin\Release\AnalyticsApi.dll
+P:\Experiments\AnalyticsApi\AnalyticsApi\bin\Release\AnalyticsApi.pdb
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Release\ResolveAssemblyReference.cache
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Release\AnalyticsApi.dll
+P:\Experiments\AnalyticsApi\AnalyticsApi\obj\Release\AnalyticsApi.pdb
